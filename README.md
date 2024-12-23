@@ -19,7 +19,7 @@ Before you begin, ensure you have met the following requirements:
 - Internet connection.
 
 ### Installation
-1. Download the latest version of **Xeno Executor** from the [official website](#).
+1. Download the latest version of **Xeno Executor**.
 2. Run the installer and follow the on-screen instructions.
 3. Launch **Xeno Executor** and log in with your Roblox credentials.
 
@@ -55,7 +55,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Contact
 For further assistance, contact our support team at [support@xenoexecutor.com](mailto:support@xenoexecutor.com).
-
----
-
-By using relevant keywords like "Roblox script executor," "Xeno Executor," "Roblox scripts," and ensuring the text is clear and concise, this README should be well-optimized for search engines. Let me know if you need any adjustments or additional sections!
